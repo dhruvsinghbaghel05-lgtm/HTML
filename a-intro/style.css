@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+H1{
+    color: red;
+    text-align: center;
+}
+#para1{
+    color: rgb(1, 1, 5);
+    font-size: 20px;
+    text-align: center;
+}
+#para2{
+    color: rgb(1, 1, 5);
+    font-size: 20px;
+    text-align: center;
+}
+#para3{
+    color: rgb(1, 1, 5);
+    font-size: 20px;
+    text-align: center;
+}
+#uniqueid{
+    color: rgb(1, 1, 5);
+    font-size: 20px;
+    text-align: center;
+}
