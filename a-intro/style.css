@@ -1,26 +1,32 @@
 body{
-    background-color: aqua;
+    background-color: beige;
 }
 H1{
-    color: red;
+    text-decoration-line: underline;
+    color: rgb(3, 2, 2);
     text-align: center;
 }
 #para1{
     color: rgb(1, 1, 5);
     font-size: 20px;
-    text-align: center;
+    text-align: left;
 }
-#para2{
+/* #para2{
     color: rgb(1, 1, 5);
     font-size: 20px;
-    text-align: center;
-}
+    /* text-align: center; */
+/* } */
 #para3{
     color: rgb(1, 1, 5);
     font-size: 20px;
-    text-align: center;
-}
+    /* text-align: center; */
+} */
 #uniqueid{
+    color: rgb(1, 1, 5);
+    font-size: 20px;
+    /* text-align: center; */
+}
+#para1:hover{
     color: rgb(1, 1, 5);
     font-size: 20px;
     text-align: center;
