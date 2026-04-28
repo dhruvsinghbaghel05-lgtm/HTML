@@ -1,5 +1,12 @@
+body{
+    background-color: beige;
+}
+
 #head{
     color: red;
     font-size: 15px;
     font-family: Arial, sans-serif;
+}#para{
+    color: white;
+    background-color: black;
 }
