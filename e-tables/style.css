@@ -13,3 +13,8 @@ th, td {
 th {
   background-color: lightgray;
 }
+#foot {
+  background-color: lightblue;
+  font-style: italic;
+  font-weight: 700;
+}
