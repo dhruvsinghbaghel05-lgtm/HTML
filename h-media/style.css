@@ -25,3 +25,14 @@ img {
 img:hover {
   transform: scale(1.05);
 }
+audio {
+  display: block;
+  margin: 20px auto;
+  width: 80%;
+  transition: all 0.3s ease;
+}
+
+audio:hover {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
